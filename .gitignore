@@ -1,0 +1,21 @@
+# Environments
+.venv/
+venv/
+
+# Secrets & Credentials
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Vector Database (ChromaDB)
+chroma_db/
+
+# Data & Documents
+*.pdf
+data/
+
+# Logs
+logs/
+*.log
